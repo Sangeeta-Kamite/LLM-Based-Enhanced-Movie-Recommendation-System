@@ -1,0 +1,55 @@
+{
+  "user_id": 1,
+  "recommendations": [
+    {
+      "movieId": 898,
+      "title": "Philadelphia Story, The (1940)",
+      "sentiment_score": 0.4541979275084288
+    },
+    {
+      "movieId": 899,
+      "title": "Singin' in the Rain (1952)",
+      "sentiment_score": 0.3272042587786227
+    },
+    {
+      "movieId": 8290,
+      "title": "Mitchell (1975)",
+      "sentiment_score": 0.951210315334631
+    },
+    {
+      "movieId": 741,
+      "title": "Ghost in the Shell (Kôkaku kidôtai) (1995)",
+      "sentiment_score": 0.07801121334630101
+    },
+    {
+      "movieId": 26472,
+      "title": "Norte, El (1984)",
+      "sentiment_score": 0.09302453571682234
+    },
+    {
+      "movieId": 110,
+      "title": "Braveheart (1995)",
+      "sentiment_score": 0.25820137037476854
+    },
+    {
+      "movieId": 1454,
+      "title": "SubUrbia (1997)",
+      "sentiment_score": 0.9227421516404558
+    },
+    {
+      "movieId": 1495,
+      "title": "Turbo: A Power Rangers Movie (1997)",
+      "sentiment_score": 0.8684893549097455
+    },
+    {
+      "movieId": 2552,
+      "title": "My Boyfriend's Back (1993)",
+      "sentiment_score": 0.29723389907368114
+    },
+    {
+      "movieId": 318,
+      "title": "Shawshank Redemption, The (1994)",
+      "sentiment_score": 0.39419405458214196
+    }
+  ]
+}
